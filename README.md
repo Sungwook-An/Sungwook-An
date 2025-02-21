@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 ### Project Repo
 
 ---
-### Notion & Portfolio
-
+### Notion
+- 
 ---
 ### Contect
 - 📨 asu970602@gmail.com
