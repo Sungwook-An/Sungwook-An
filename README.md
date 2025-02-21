@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### Project Repo
-
+### Portfolio
+- 🌱 [Portfolio](https://drive.google.com/drive/u/0/folders/1AcqFObX7cpEPxpuG5d4m15nGsMR9Ztfx)
 ---
 ### Notion
-- 
+- 📖 [Notion](https://simplistic-meteor-5a1.notion.site/Sungwook-Ahn-382558b0371d46b59372c065735145d3?pvs=4)
 ---
 ### Contect
 - 📨 asu970602@gmail.com
